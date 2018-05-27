@@ -2,7 +2,7 @@
 
 <p>Oluşturduğum mödül hangi kurs ne zaman başlıcak ne zaman biticek görmek için tasarlanmıştır.
   
-  <b>Kullanımı<b>
+  <b>Kullanımı</b>
   
   Ana proje klasörde bulunan "composer.json" dosyanın içindeki "repositores" kısmına eklemeniz gereken kod aşağıda verilmiştir:
  <br> {
